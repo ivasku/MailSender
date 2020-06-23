@@ -1,0 +1,6 @@
+npm install xlsx
+
+npm install nodemailer
+
+npm install imap
+
